@@ -1,0 +1,23 @@
+{
+    "Bot": {
+     "Token": "",
+     "Owner": "",
+     "Durum": "",
+     "Status": ""
+    },
+
+    "Server": {
+     "GuildID": ""
+    },
+    
+    "Channels": {
+     "VoiceChannelID": ""
+    },
+
+    "Roles": {
+     "Lovers": "",
+     "Alone": "",
+     "Lgbt": ""
+    }
+
+}
